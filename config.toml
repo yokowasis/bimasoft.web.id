@@ -76,8 +76,8 @@ summarylength = 25
 
   [params.portfolio]
     enable    = true
-    title     = "OUR RECENT WORKS"
-    subtitle  = "Crafting experiences and seeking to make the complex clear & beautiful."
+    title     = "OUR PROJECTs"
+    subtitle  = "Beberapa aplikasi yang bisa dipesan melalui Client Area"
 
   [params.call_to_action]
     enable              = true
