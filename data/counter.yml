@@ -1,14 +1,14 @@
-enable : true
-heading : "THE PROOF IS IN THE PUDDING!"
-counter_item: 
-  - title: "Happy Clients"
-    number: "250"
+enable: true
+heading: "OUR STATS!"
+counter_item:
+  - title: "Students Served"
+    number: "1M"
 
-  - title: "Projects Completed"
-    number: "100"
+  - title: "Schools Served"
+    number: "1000"
 
-  - title: "Cups of coffee"
-    number: "350"
+  - title: "Questions Solved"
+    number: "10M"
 
-  - title: "Telephone Talks"
-    number: "775"
+  - title: "Online CBT"
+    number: "200"
