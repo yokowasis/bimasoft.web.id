@@ -3,28 +3,91 @@
   <div class="container">
     <div class="row">
       <div class="col-lg-5">
-        <h1 class="site-contact-title">
-          {{ .Params.heading | safeHTML }}
-        </h1>
+        <h1 class="site-contact-title">{{ .Params.heading | safeHTML }}</h1>
+        <table border="1">
+          <tbody>
+            <tr>
+              <td style="padding: 10px">Platform</td>
+              <td style="padding: 10px">Contact</td>
+            </tr>
+            <tr>
+              <td style="padding: 10px">
+                <i class="fa fa-whatsapp" aria-hidden="true"></i> Whatsapp
+              </td>
+              <td style="padding: 10px">+62823-4003-9781</td>
+            </tr>
+            <tr>
+              <td style="padding: 10px">
+                <i class="fa fa-telegram" aria-hidden="true"></i> Telegram
+              </td>
+              <td style="padding: 10px">+62823-4003-9781</td>
+            </tr>
+            <tr>
+              <td style="padding: 10px">
+                <i class="fa fa-envelope" aria-hidden="true"></i> E-Mail
+              </td>
+              <td style="padding: 10px">info@bimasoft.web.id</td>
+            </tr>
+            <tr>
+              <td style="padding: 10px">
+                <i class="fa fa-comments" aria-hidden="true"></i> Facebook
+                Messenger
+              </td>
+              <td style="padding: 10px">https://fb.me/yoko.wasis</td>
+            </tr>
+          </tbody>
+        </table>
       </div>
       <div class="col-lg-6 ml-auto">
         <div class="site-contact-form">
           <h4>{{ .Params.form_heading }}</h4>
-          <form id="contact-form" action="{{ .Site.Params.fabform }}" method="post">
+          <form
+            id="contact-form"
+            action="{{ .Site.Params.fabform }}"
+            method="post"
+          >
             <div class="row">
               <div class="col-lg-6">
-                <input type="text" class="form-control" name="first-name" id="first-name" placeholder="{{ .Site.Params.contactForm.placeholder_first_name }}" required>
+                <input
+                  type="text"
+                  class="form-control"
+                  name="first-name"
+                  id="first-name"
+                  placeholder="{{ .Site.Params.contactForm.placeholder_first_name }}"
+                  required
+                />
               </div>
               <div class="col-lg-6">
-                <input type="text" class="form-control" name="last-name" id="last-name" placeholder="{{ .Site.Params.contactForm.placeholder_last_name }}" required>
+                <input
+                  type="text"
+                  class="form-control"
+                  name="last-name"
+                  id="last-name"
+                  placeholder="{{ .Site.Params.contactForm.placeholder_last_name }}"
+                  required
+                />
               </div>
               <div class="col-lg-6">
-                <input type="email" class="form-control" name="email" id="email" placeholder="{{ .Site.Params.contactForm.placeholder_email }}" required>
+                <input
+                  type="email"
+                  class="form-control"
+                  name="email"
+                  id="email"
+                  placeholder="{{ .Site.Params.contactForm.placeholder_email }}"
+                  required
+                />
               </div>
               <div class="col-lg-6">
                 <div class="select-wrapper">
-                  <select class="form-control" id="projectType" name="project-type" required>
-                    <option value="" selected disabled hidden>{{ .Site.Params.contactForm.placeholder_project_type }}</option>
+                  <select
+                    class="form-control"
+                    id="projectType"
+                    name="project-type"
+                    required
+                  >
+                    <option value="" selected disabled hidden>
+                      {{ .Site.Params.contactForm.placeholder_project_type }}
+                    </option>
                     {{ range .Site.Params.contactForm.projectType }}
                     <option value="{{ .value }}">{{ .title }}</option>
                     {{ end }}
@@ -32,12 +95,25 @@
                 </div>
               </div>
               <div class="col-12">
-                <textarea class="form-control" id="aboutProject" name="about-project" rows="6" placeholder="{{ .Site.Params.contactForm.placeholder_about_the_project }}"></textarea>
+                <textarea
+                  class="form-control"
+                  id="aboutProject"
+                  name="about-project"
+                  rows="6"
+                  placeholder="{{ .Site.Params.contactForm.placeholder_about_the_project }}"
+                ></textarea>
               </div>
               <div class="col-12">
-                <button formtarget="_blank" type="submit" class="btn btn-primary" id="contact-form-button">
+                <button
+                  formtarget="_blank"
+                  type="submit"
+                  class="btn btn-primary"
+                  id="contact-form-button"
+                >
                   <span class="btn-area">
-                    <span data-text="{{ .Site.Params.contactForm.send_message }}">
+                    <span
+                      data-text="{{ .Site.Params.contactForm.send_message }}"
+                    >
                       {{ .Site.Params.contactForm.send_message }}
                     </span>
                   </span>
@@ -46,9 +122,6 @@
               <p id="contact-form-status"></p>
             </div>
           </form>
-          <p class="contact-form-generator">
-            <strong>** </strong><a href="https://fabform.io/" target="_blank">Static website forms</a>
-          </p>
         </div>
       </div>
     </div>
