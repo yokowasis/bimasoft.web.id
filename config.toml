@@ -105,10 +105,10 @@ summarylength = 25
       [params.footer.sitemap]
         title   = "Sitemap"
         [[params.footer.sitemap.link]]
-          name = "About Company"
+          name = "About Bimasoft"
           url  = "about"
         [[params.footer.sitemap.link]]
-          name = "Projects"
+          name = "Products"
           url  = "portfolio"
         [[params.footer.sitemap.link]]
           name = "Blog"
@@ -120,18 +120,15 @@ summarylength = 25
       [params.footer.social]
         title   = "Social Media"
         [[params.footer.social.link]]
-          name = "Medium"
-          url  = "#"
+          name = "Whatsapp"
+          url  = "https://wa.me/6282340039781"
         [[params.footer.social.link]]
-          name = "Behance"
-          url  = "#"
+          name = "Telegram"
+          url  = "https://t.me/6282340039781"
         [[params.footer.social.link]]
-          name = "Dribbble"
-          url  = "#"
-        [[params.footer.social.link]]
-          name = "Instagram"
-          url  = "#"
+          name = "Facebook"
+          url  = "https://fb.me/yoko.wasis"
       # Footer Service
       [params.footer.service]
-        title       = "We help brands:"
-        description = "develop design solutions<br>produce valuable cultural content<br>create fresh brand experience"
+        title       = "About us:"
+        description = "Menyediakan aplikasi yang berkaitan dengan dunia pendidikan, mulai dari <span class='text-dark'>ujian</span> sampai <span class='text-dark'>pembayaran spp</span> dan surat menyurat."
