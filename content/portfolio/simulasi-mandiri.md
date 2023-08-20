@@ -2,13 +2,9 @@
 title: "BIMASOFT SIMULASI MANDIRI"
 date: 2019-12-23T20:56:42+06:00
 type: portfolio
-image: "images/projects/project-thumb-four.jpg"
+image: "images/projects/cbt.jpg"
 category: ["Application"]
-project_images:
-  [
-    "images/projects/project-details-image-one.jpg",
-    "images/projects/project-details-image-two.jpg",
-  ]
+project_images: ["images/projects/cbt.jpg"]
 ---
 
 Aplikasi Ujian Berbasis Komputer (CBT) adalah solusi yang mudah digunakan dan terintegrasi dengan Microsoft Word dan Excel. Dengan integrasi ini, tidak diperlukan pelatihan tambahan bagi para pengajar atau administrator untuk menggunakan software ini.

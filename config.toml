@@ -24,8 +24,8 @@ summarylength = 25
     url     = "blog"
     weight  = 4
   [[menu.nav]]
-    name    = "Get in touch"
-    url     = "contact"
+    name    = "Client Area"
+    url     = "https://client.bimasoft.web.id/"
     weight  = 5
 
 # Site Params
@@ -76,9 +76,9 @@ summarylength = 25
     heading               = "PUSH THE WEB TO THE LIMIT"
     tagline               = "UNTUK MASA DEPAN YANG LEBIH BAIK"
     primary_button        = "SOFTWARE UJIAN"
-    primary_button_url    = "portfolio"
+    primary_button_url    = "https://client.bimasoft.web.id/"
     secondary_button      = "MANAJEMEN MANDIRI"
-    secondary_button_url  = "contact"
+    secondary_button_url  = "https://client.bimasoft.web.id/"
 
   [params.portfolio]
     enable    = true

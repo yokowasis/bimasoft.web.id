@@ -6,12 +6,12 @@ description: "Bimasoft berfokus pada pengembangan solusi aplikasi pendidikan di 
 expertise_title: "Expertise"
 expertise_sectors:
   [
-    "Aplikasi Pembelajaran Interaktif", 
-"Pengembangan Konten Edukatif", 
-"Manajemen Pembelajaran Terintegrasi", 
-"Inovasi Teknologi Pendidikan", 
-"Kolaborasi Guru dan Institusi", 
-"Pengembangan Aplikasi Orang Tua", 
-"Konsultasi Pendidikan Teknologi", 
+    "Aplikasi Pembelajaran Interaktif",
+    "Pengembangan Konten Edukatif",
+    "Manajemen Pembelajaran Terintegrasi",
+    "Inovasi Teknologi Pendidikan",
+    "Kolaborasi Guru dan Institusi",
+    "Pengembangan Aplikasi Orang Tua",
+    "Konsultasi Pendidikan Teknologi",
   ]
 ---
