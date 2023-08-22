@@ -1,6 +1,6 @@
 ---
 title: "Pentingnya Untuk Selalu Mengikuti Berkembang Teknologi"
-date: 2023-08-23T00:00:00+00:00
+date: 2023-08-22T00:00:00+00:00
 image: images/blog/_4dbcd14d-1e9b-4a8e-8524-f1d945470d97.jpeg
 feature_image: images/blog/_4dbcd14d-1e9b-4a8e-8524-f1d945470d97.jpeg
 author: Wasis Haryo Sasoko
