@@ -17,6 +17,34 @@
     // Continue with form submission
     return true;
   }
+  function dosubmitform() {
+    const firstName = document.getElementById("first-name").value;
+    const lastName = document.getElementById("last-name").value;
+    const email = document.getElementById("email").value;
+    const projectType = document.getElementById("projectType").value;
+    const aboutProject = document.getElementById("aboutProject").value;
+    fetch("{{ .Site.Params.fabform }}",{
+      method: "POST",
+      headers: {
+        'Accept': 'application/json',
+        'Content-Type': 'application/json'
+      },
+      body : JSON.stringify({
+        "first-name": firstName,
+        "last-name": lastName,
+        "email": email,
+        "projectType": projectType,
+        "about-project": aboutProject
+      })
+    })
+    .then(()=>{
+      alert ("Terima kasih telah menghubungi kami, kami akan segera menghubungi anda kembali");
+    })
+    .catch((err) => {
+      console.log(err);
+      alert ("Terjadi kesalahan, silahkan hubungi kami melalui Whatsapp atau Telegram");
+    })
+  }
 </script>
 <section class="site-contact">
   <div class="container">
@@ -60,12 +88,7 @@
       <div class="col-lg-6 ml-auto">
         <div class="site-contact-form">
           <h4>{{ .Params.form_heading }}</h4>
-          <form
-            id="contact-form"
-            action="{{ .Site.Params.fabform }}"
-            method="post"
-            onsubmit="return validateForm()"
-          >
+          <div id="contact-form">
             <div class="row">
               <div class="col-lg-6">
                 <input
@@ -125,10 +148,10 @@
               </div>
               <div class="col-12">
                 <button
-                  formtarget="_blank"
-                  type="submit"
+                  type="button"
                   class="btn btn-primary"
                   id="contact-form-button"
+                  onclick="dosubmitform()"
                 >
                   <span class="btn-area">
                     <span
@@ -141,7 +164,7 @@
               </div>
               <p id="contact-form-status"></p>
             </div>
-          </form>
+          </div>
         </div>
       </div>
     </div>
