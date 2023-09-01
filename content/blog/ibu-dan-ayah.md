@@ -7,8 +7,6 @@ author: Wasis Haryo Sasoko
 summary: "Pendidikan di rumah melibatkan interaksi antara anggota keluarga dan memberikan wawasan serta nilai-nilai penting kepada anak-anak"
 ---
 
-![Image](https://images.pexels.com/photos/12761588/pexels-photo-12761588.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
-
 Ketika berbicara tentang pendidikan anak, seringkali perhatian tertuju pada peran ibu sebagai pengajar utama di rumah. Namun, penting untuk diingat bahwa pendidikan di rumah adalah tanggung jawab bersama, bukan hanya tugas seorang ibu. Ayah juga memiliki peran penting dalam membentuk perkembangan intelektual dan karakter anak-anak. Artikel ini akan menjelaskan mengapa pendidikan di rumah adalah tugas yang sama pentingnya bagi ibu dan ayah.
 
 ### 1. **Kemitraan dalam Mendidik Anak**
