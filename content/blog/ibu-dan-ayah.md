@@ -6,9 +6,7 @@ feature_image: https://images.pexels.com/photos/12761588/pexels-photo-12761588.j
 author: Wasis Haryo Sasoko
 summary: "Ketika berbicara tentang pendidikan anak, seringkali perhatian tertuju pada peran ibu sebagai pengajar utama di rumah. Namun, penting untuk diingat bahwa pendidikan di rumah adalah tanggung jawab bersama, bukan hanya tugas seorang ibu"
 ---
-
-Ketika berbicara tentang pendidikan anak, seringkali perhatian tertuju pada peran ibu sebagai pengajar utama di rumah. Namun, penting untuk diingat bahwa pendidikan di rumah adalah tanggung jawab bersama, bukan hanya tugas seorang ibu. Ayah juga memiliki peran penting dalam membentuk perkembangan intelektual dan karakter anak-anak. Artikel ini akan menjelaskan mengapa pendidikan di rumah adalah tugas yang sama pentingnya bagi ibu dan ayah.
-
+asdasd
 ### 1. **Kemitraan dalam Mendidik Anak**
 
 Pendidikan di rumah bukanlah tanggung jawab tunggal seorang ibu. Ayah memiliki peran yang sama pentingnya dalam membantu anak-anak belajar dan tumbuh. Dengan bekerja sama sebagai tim, kedua orang tua dapat memberikan dukungan yang kuat dan konsisten dalam perkembangan pendidikan anak-anak mereka. Kemitraan ini menciptakan lingkungan yang lebih kaya dan mendukung perkembangan holistik anak.
