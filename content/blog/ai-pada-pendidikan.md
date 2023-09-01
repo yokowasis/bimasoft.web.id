@@ -1,8 +1,8 @@
 ---
 title: "Transformasi Pendidikan Global: Peran AI dan Guru dalam Kelas Sehari-hari"
-date: 2023-08-31T00:00:00+00:00
-image: https://images.pexels.com/photos/3182763/pexels-photo-3182763.jpeg
-feature_image: https://images.pexels.com/photos/3182763/pexels-photo-3182763.jpeg
+date: 2023-09-01T00:00:00+00:00
+image: https://images.pexels.com/photos/12847983/pexels-photo-12847983.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1
+feature_image: https://images.pexels.com/photos/12847983/pexels-photo-12847983.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1
 author: Wasis Haryo Sasoko
 summary: "Pendidikan adalah fondasi masa depan, dan dalam era digital yang semakin maju, peran kecerdasan buatan (AI) dalam dunia pendidikan semakin penting. AI telah mengubah cara kita belajar dan mengajar, menghadirkan peluang dan tantangan baru yang perlu kita telusuri."
 ---
