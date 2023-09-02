@@ -1,8 +1,8 @@
 ---
 title: "Kekuatan Sopan Santun dalam Dunia Konten: Menciptakan Ruang yang Aman untuk Semua Generasi"
 date: 2023-09-01T00:00:00+00:00
-image:https://images.pexels.com/photos/12847983/pexels-photo-12847983.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1
-feature_image:https://images.pexels.com/photos/12847983/pexels-photo-12847983.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1
+image: https://images.pexels.com/photos/12847983/pexels-photo-12847983.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1
+feature_image: https://images.pexels.com/photos/12847983/pexels-photo-12847983.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1
 author: Wasis Haryo Sasoko
 summary: "Ada kekuatan besar dalam kata-kata, dan dalam dunia konten digital yang terus berkembang seperti YouTube, ini bukanlah pernyataan yang bisa diabaikan. Saat ini, banyak content creator yang fokus pada mendapatkan banyak view dan like dengan cara apa pun"
 ---
