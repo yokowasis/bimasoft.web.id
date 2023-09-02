@@ -29,9 +29,29 @@ Salah satu aspek penting dalam menciptakan konten yang sopan adalah menjadikanny
 
 Sebagai content creator, kita memiliki peran besar dalam membentuk opini dan sikap orang lain. Jika kita memilih untuk menjadi teladan yang baik dengan menciptakan konten yang sopan dan mendidik, kita dapat mempengaruhi positif masyarakat luas. Ini adalah kesempatan kita untuk memberikan pengaruh positif kepada generasi berikutnya, menjadi panutan dalam sikap dan perilaku yang baik.
 
-### **Menciptakan Ruang yang Aman**
+### **Kontrol Tontonan Anak**
+
+Orang tua yang peduli sering kali berusaha untuk mengontrol tontonan anak-anak mereka. Mereka mungkin membatasi akses ke konten tertentu atau mengaktifkan filter parental pada platform media sosial. Namun, bahkan dengan kontrol yang ketat, tidak ada jaminan bahwa anak-anak tidak akan terpapar oleh konten yang kurang pantas, terutama jika mereka mencarinya secara aktif di luar pengawasan.
+
+### **Pengaruh Teman Sebaya**
+
+Pengaruh teman sebaya juga merupakan faktor yang signifikan dalam apa yang anak-anak pilih untuk tonton. Teman sebaya dapat memperkenalkan mereka pada konten yang mungkin tidak diizinkan oleh orang tua. Ini adalah tantangan ekstra yang dihadapi oleh orang tua yang ingin menjaga anak-anak mereka terlindungi dari konten yang tidak sesuai.
+
+### **Konten yang Memberikan Pesan yang Salah**
+
+Konten yang mengandung kata-kata kasar atau kurang pantas sering kali memberikan pesan yang salah kepada anak-anak. Mereka bisa mendapatkan pandangan yang salah tentang norma sosial, etika, dan bahkan bahasa yang mereka gunakan dalam kehidupan sehari-hari. Ini dapat memiliki dampak jangka panjang pada cara mereka berinteraksi dengan dunia.
+
+### **Perlunya Kesadaran dan Tanggung Jawab Bersama**
+
+Dalam menghadapi tantangan ini, penting bagi semua pihak untuk bersama-sama bertanggung jawab. Content creator memiliki peran penting dalam menentukan jenis konten yang mereka hasilkan. Sementara mereka mungkin mendapatkan banyak perhatian dengan konten yang provokatif, mereka juga harus sadar akan pengaruhnya pada penonton yang lebih muda. Mereka memiliki kesempatan untuk memberikan contoh yang baik dan mendidik melalui konten mereka.
+
+Orang tua juga perlu berbicara terbuka dengan anak-anak mereka tentang risiko konten yang tidak pantas. Ini adalah kesempatan untuk membahas nilai-nilai, etika, dan bagaimana bersikap bijak dalam penggunaan internet. Jangan hanya mengandalkan kontrol tontonan semata, tetapi juga berikan pemahaman kepada anak-anak tentang pentingnya memilih konten yang sesuai dengan nilai-nilai yang diajarkan di rumah.
+
+### **Menciptakan Ruang yang Aman dan Bertanggung Jawab**
 
 ![Image](https://images.pexels.com/photos/6864967/pexels-photo-6864967.jpeg?auto=compress&cs=tinysrgb&w=600)
+
+Menciptakan konten yang sopan adalah langkah pertama dalam menjaga lingkungan yang aman dan bertanggung jawab di dunia maya. Ini adalah upaya bersama untuk memberikan contoh yang baik, mendidik, dan membantu anak-anak memahami bahwa mereka memiliki kekuatan untuk memilih konten yang mereka konsumsi. Hanya dengan kesadaran dan tanggung jawab bersama, kita dapat menciptakan dunia digital yang lebih baik untuk semua generasi.
 
 Menciptakan konten yang sopan adalah tentang menciptakan ruang yang aman di dunia maya. Ini adalah tentang memberikan orang tempat untuk melarikan diri dari konten yang tidak pantas dan merusak. Ini adalah tentang menghargai pengaruh besar yang kita miliki sebagai content creator dan memilih untuk menggunakannya untuk kebaikan.
 
