@@ -1,7 +1,7 @@
 ---
 title: "Mengasah Jiwa Kompetisi: Kunci Perkembangan Peserta Didik yang Unggul"
 date: 2023-09-11T00:00:00+00:00
-image:https://images.pexels.com/photos/3755440/pexels-photo-3755440.jpeg?cs=srgb&dl=pexels-andrea-piacquadio-3755440.jpg&fm=jpg 
+image: https://images.pexels.com/photos/3755440/pexels-photo-3755440.jpeg?cs=srgb&dl=pexels-andrea-piacquadio-3755440.jpg&fm=jpg
 feature_image: https://images.pexels.com/photos/3755440/pexels-photo-3755440.jpeg?cs=srgb&dl=pexels-andrea-piacquadio-3755440.jpg&fm=jpg
 author: Wasis Haryo Sasoko
 summary: "Kompetisi adalah salah satu elemen penting dalam dunia pendidikan. Ini bukan hanya tentang memenangkan atau kalah, tetapi juga tentang proses belajar yang berharga dan pengembangan pribadi."
