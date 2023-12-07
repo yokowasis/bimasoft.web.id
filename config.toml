@@ -119,6 +119,12 @@ summarylength = 25
         [[params.footer.sitemap.link]]
           name = "Contact"
           url  = "contact"
+        [[params.footer.sitemap.link]]
+          name = "Privacy Policy"
+          url  = "https://docs.bimasoft.web.id/privacy-policy/"
+        [[params.footer.sitemap.link]]
+          name = "Term of Service"
+          url  = "https://docs.bimasoft.web.id/term-of-service/"
       # Footer Social Media
       [params.footer.social]
         title   = "Social Media"

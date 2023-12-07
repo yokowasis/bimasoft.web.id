@@ -1,5 +1,6 @@
-{{ with .Site.Params.banner }} {{ if .enable }} {{ "<!-- Site Hero Start -->" |
-safeHTML }}
+{{ with .Site.Params.banner }} 
+{{ if .enable }} 
+{{ "<!-- Site Hero Start -->" | safeHTML }}
 <section
   class="site-hero"
   style="background-image: url('{{ .background_image }}');"
