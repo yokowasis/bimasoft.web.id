@@ -5,7 +5,7 @@ author: Wasis Haryo Sasoko
 type: gdrive
 ---
 
-### Loading ...
+### Loading ....
 
 <script>
   window.location.href = "https://drive.google.com/drive/u/0/folders/0B2NzwS2O8SbSZG8yZ1p0YktodmM?resourcekey=0-7mK5pbPGkJVsiahQukvEoA"
